@@ -6,6 +6,18 @@ This website showcases a variety of front-end projects built with **HTML**, **CS
 
 ---
 
+## 🖼️ UI Preview
+
+![UI Preview](./assets/iti.jpg)
+
+---
+
+## 🚀 Demo
+
+🔗 [Live Demo](https://3bdulrahmn69.github.io/iti-projects-zag-branch-r3/)
+
+---
+
 ## 🌟 Featured Projects
 
 ### 🎮 Game Center
