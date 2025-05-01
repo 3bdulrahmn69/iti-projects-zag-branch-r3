@@ -8,7 +8,7 @@ This website showcases a variety of front-end projects built with **HTML**, **CS
 
 ## 🖼️ UI Preview
 
-![UI Preview](./assets/iti.jpg)
+![UI Preview](./assets/home.png)
 
 ---
 
